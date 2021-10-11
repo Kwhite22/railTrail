@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .center-text{
+        text-align: center;
+    }
+    .orange-darken4-text{
+        color: #e65100
+    }
+    .red-lighten1-text{
+        color: #ef5350
+    }
+    .red-text{
+        color: red
+    }
+    h1{
+        font-family: courier;
+        font-size: 36px;
+    }
+    h2{
+        font-size: 56px
+    }
+    .orange-light4-background{
+        background-color: #ffe0b2
+    }
+    .thin-red-border{
+        border color: #880e4f
+        border-width: 5px;
+        border-style: solid;
+    }
+</style>
+<background class = "orange-light4-background"></background>
+<body>
+    <h1 class = "orange-darken4-text center-text" > STOP 2</h1>
+    <h2 class = "red-lighten3-text thin-red-border"> STOP 2 TITLE </h2> 
+     
+    <div>
+    <p class = "red-text">Opened to the public as a State Park in 1992, 
+        the Rail Trail starts at 6,900' in elevation, 
+        near Park City, and falls, over the course of 27.7 miles, to 5,280' 
+        elevation at the eastern end. ... Closest to Park City, 
+        the trail is paved for approximately 3 miles. 
+        Thereafter, heading east, the trail is smooth, wide road-base.</p>
+        <img width= "320" height= "240" src = "http://www.railstotrails.org/media/40037/historic-union-pacific-rail-trail-state-park-utah.jpg?anchor=center&mode=crop&width=880&height=460&rnd=132185721320000000">
+    </div>
+</body>
+    
+</html>
